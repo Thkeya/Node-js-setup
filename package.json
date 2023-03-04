@@ -11,5 +11,9 @@
     "server"
   ],
   "author": "Thkeya Smith",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "nodemon": "^2.0.20"
+  }
 }
